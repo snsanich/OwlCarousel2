@@ -45,5 +45,8 @@
     "jQuery",
     "plugin"
   ],
+  "files": [
+    "dist"
+  ],
   "private": true
 }
